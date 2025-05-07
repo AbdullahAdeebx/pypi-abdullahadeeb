@@ -35,6 +35,6 @@ dependencies = []
 abdullahadeeb = "abdullahadeeb.main:run"
 
 [project.urls]
-"Repository" = "https://github.com/abdullahadeebx/abdullahadeeb"
-"Bug Tracker" = "https://github.com/abdullahadeebx/abdullahadeeb/issues"
+"Repository" = "https://github.com/abdullahadeebx/pypi-abdullahadeeb"
+"Bug Tracker" = "https://github.com/abdullahadeebx/pypi-abdullahadeeb/issues"
 "Homepage" = "https://www.abdullahadeeb.xyz"
